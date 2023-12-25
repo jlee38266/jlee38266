@@ -1,5 +1,14 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjlee38266%2Fhit-counter&count_bg=%2379C83D&title_bg=%23312A2A&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### Hi there 👋
+### I'm still learning how to use GitHub.🌱
+
+![jlee38266's github stats](https://github-readme-stats.vercel.app/api?username=jlee38266&show_icons=true)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jlee38266)](https://solved.ac/jlee38266)
+
+
+                                                        
 <!--
 **jlee38266/jlee38266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
