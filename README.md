@@ -5,7 +5,7 @@
 
 ![jlee38266's github stats](https://github-readme-stats.vercel.app/api?username=jlee38266&show_icons=true)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jlee38266)](https://solved.ac/jlee38266)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=akdmf23)](https://solved.ac/akdmf23)
 
 
                                                         
