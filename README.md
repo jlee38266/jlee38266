@@ -1,7 +1,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjlee38266%2Fhit-counter&count_bg=%2379C83D&title_bg=%23312A2A&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hi there 👋
-### I'm still learning how to use GitHub.🌱
+``` json
+{ 
+  "name": "이재원 (Lee JaeWon)",
+  "email": "jlee38266@gmail.com",
+  "country": "KR: South Korea"
+}
+```
 
 ![jlee38266's github stats](https://github-readme-stats.vercel.app/api?username=jlee38266&show_icons=true)
 
