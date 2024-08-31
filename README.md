@@ -1,5 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjlee38266%2Fhit-counter&count_bg=%2379C83D&title_bg=%23312A2A&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjlee38266%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=smugmug.svg&icon_color=%232BB880&title=hits+this+profile%21&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi there 👋
 ``` json
 { 
@@ -8,7 +7,6 @@
   "country": "KR: South Korea"
 }
 ```
-
 ![jlee38266's github stats](https://github-readme-stats.vercel.app/api?username=jlee38266&show_icons=true)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=akdmf23)](https://solved.ac/akdmf23)
