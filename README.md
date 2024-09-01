@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjlee38266%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=smugmug.svg&icon_color=%232BB880&title=hits+this+profile%21&edge_flat=false)](https://hits.seeyoufarm.com)
-### Hi there 👋
+### "다양한 도구를 익히고 활용하며, 성능 개선을 좋아하는 사람" 👋
 ``` json
 { 
   "name": "이재원 (Lee JaeWon)",
