@@ -1,10 +1,36 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjlee38266%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=smugmug.svg&icon_color=%232BB880&title=hits+this+profile%21&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 다양한 도구를 익히고 활용하며, 성능 개선을 좋아하는 사람 🌱
 ``` json
-{ 
+{
   "name": "이재원 (Lee JaeWon)",
   "email": "jlee38266@gmail.com",
-  "country": "KR: South Korea"
+  "country": "KR: South Korea",
+  "skills": {
+    "languages_and_frameworks": {
+      "Java": ["Spring Boot", "Spring Data JPA"],
+      "JavaScript": ["Vue.js 3"]
+    },
+    "devOps": {
+      "CI/CD": ["GitHub Actions", "ArgoCD"],
+      "IaC": ["Terraform"],
+      "Container_Orchestration": ["Docker", "Kubernetes (k8s)", "Helm"],
+      "Monitoring_Logging": ["Prometheus", "Grafana", "Fluent Bit"],
+      "Cloud_Services": ["AWS (EKS, OpenSearch, EC2)"]
+    },
+    "database": ["MariaDB"],
+    "tools": {
+      "Version_Control": ["Git", "GitHub", "SourceTree"],
+      "Collaboration": ["Notion", "Slack", "Discord"],
+      "Editor": ["IntelliJ", "VSCode"],
+      "Scripting": ["Shell script"],
+      "Testing": ["Postman", "k6"]
+    }
+  },
+  "interests": {
+    "languages": ["Go", "Kotlin"],
+    "databases": ["GraphQL", "MongoDB (NoSQL)"],
+    "other_areas": ["Atmos for centralized infrastructure management"]
+  }
 }
 ```
 ![jlee38266's github stats](https://github-readme-stats.vercel.app/api?username=jlee38266&show_icons=true)
