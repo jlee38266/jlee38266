@@ -29,8 +29,8 @@
   },
   "interests": {
     "languages": ["Go", "Kotlin"],
-    "databases": ["GraphQL", "MongoDB (NoSQL)"],
-    "other_areas": ["Atmos for centralized infrastructure management"]
+    "databases": ["Redis", "GraphQL", "MongoDB (NoSQL)"],
+    "other_areas": ["Atmos", "Tilt"]
   }
 }
 ```
