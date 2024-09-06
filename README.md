@@ -27,7 +27,7 @@
       "Testing": ["Postman", "k6"]
     }
   },
-  "interests": {
+  "leaning goals": {
     "languages": ["Go", "Kotlin"],
     "databases": ["Redis", "GraphQL", "MongoDB (NoSQL)"],
     "other_areas": ["Atmos", "Tilt"]
