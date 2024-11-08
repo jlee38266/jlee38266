@@ -14,7 +14,7 @@
     "devOps": {
       "CI/CD": ["GitHub Actions", "ArgoCD"],
       "IaC": ["Terraform"],
-      "Container_Orchestration": ["Docker", "Kubernetes (k8s)", "Helm"],
+      "Container_Orchestration": ["Docker", "Kubernetes (k8s)", "Tilt", "Helm"],
       "Monitoring_Logging": ["Prometheus", "Grafana", "Fluent Bit"],
       "Cloud_Services": ["AWS (EKS, OpenSearch, EC2)"]
     },
@@ -29,8 +29,8 @@
   },
   "learning goals": {
     "languages": ["Go", "Kotlin"],
-    "databases": ["Redis", "MongoDB (NoSQL)"],
-    "other_areas": ["Atmos", "Tilt", "localstack", "AWS Cloudfront", "AWS dynamoDB", "Nginx", "GraphQL"]
+    "databases": ["Redis", "MongoDB (NoSQL)", "PostgreSQL"],
+    "other_areas": ["Atmos", "localstack", "AWS Cloudfront", "AWS dynamoDB", "Nginx", "GraphQL"]
   }
 }
 ```
