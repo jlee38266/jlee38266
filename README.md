@@ -29,7 +29,7 @@
   },
   "learning goals": {
     "languages": ["Go", "Kotlin"],
-    "databases": ["Redis", "MongoDB (NoSQL)", "PostgreSQL"],
+    "databases": ["Redis", "MongoDB", "PostgreSQL"],
     "other_areas": ["Atmos", "localstack", "AWS Cloudfront", "AWS dynamoDB", "Nginx", "GraphQL"]
   }
 }
