@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjlee38266%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=smugmug.svg&icon_color=%232BB880&title=hits+this+profile%21&edge_flat=false)](https://hits.seeyoufarm.com)
-### 만들기를 좋아하고, Terminal과 친해지려고 노력하는 개발자입니다. 🌱
+### yeeeeee🌱
 
 ``` json
 {
