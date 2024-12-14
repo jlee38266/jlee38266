@@ -12,10 +12,10 @@
       "JavaScript": ["Vue.js 3"]
     },
     "devOps": {
-      "CI/CD": ["GitHub Actions", "ArgoCD"],
+      "CI/CD": ["GitHub Actions"],
       "IaC": ["Terraform"],
-      "Container_Orchestration": ["Docker", "Kubernetes (k8s)", "Tilt", "Helm"],
-      "Monitoring_Logging": ["Prometheus", "Grafana", "Fluent Bit"],
+      "Container_Orchestration": ["Docker", "Kubernetes (k8s)", "Helm"],
+      "Monitoring_Logging": ["Prometheus", "Grafana"],
       "Cloud_Services": ["AWS (EKS, OpenSearch, EC2)"]
     },
     "database": ["MariaDB"],
@@ -30,7 +30,7 @@
   "learning goals": {
     "languages": ["Go", "Kotlin"],
     "databases": ["Redis", "MongoDB", "PostgreSQL"],
-    "other_areas": ["Atmos", "localstack", "AWS Cloudfront", "AWS dynamoDB", "Nginx", "GraphQL"]
+    "other_areas": ["Atmos", "localstack", "AWS dynamoDB", "Nginx", "GraphQL", "ArgoCD", "Fluent Bit", "Tilt"]
   }
 }
 ```
