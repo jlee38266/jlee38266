@@ -30,7 +30,8 @@
   "learning goals": {
     "languages": ["Go", "Kotlin"],
     "databases": ["Redis", "MongoDB", "PostgreSQL"],
-    "other_areas": ["Atmos", "localstack", "AWS dynamoDB", "Nginx", "GraphQL", "ArgoCD", "Fluent Bit", "Tilt"]
+    "frameworks" [Netty],
+    "other_areas": ["Atmos", "localstack", "Nginx", "GraphQL", "ArgoCD", "Fluent Bit", "Tilt"]
   }
 }
 ```
