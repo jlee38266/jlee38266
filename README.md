@@ -4,8 +4,6 @@
 ``` json
 {
   "name": "이재원 (Lee JaeWon)",
-  "email": "jlee38266@gmail.com",
-  "country": "KR: South Korea",
   "skills": {
     "languages_and_frameworks": {
       "Java": ["Spring Boot", "Spring Data JPA"],
@@ -20,7 +18,7 @@
     },
     "database": ["MariaDB"],
     "tools": {
-      "Version_Control": ["Git", "GitHub", "SourceTree"],
+      "Version_Control": ["Git", "GitHub", "SourceTree", "Lazygit"],
       "Collaboration": ["Notion", "Slack", "Discord"],
       "Editor": ["IntelliJ", "VSCode"],
       "Scripting": ["Shell script"],
