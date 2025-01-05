@@ -37,9 +37,9 @@
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=jlee38266&show_icons=true" alt="jlee38266's github stats" />
-  <a href="https://solved.ac/akdmf23">
+<!--   <a href="https://solved.ac/akdmf23">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=akdmf23" alt="solved.ac tier" />
-  </a>
+  </a> -->
 </div>
 
 <!--
