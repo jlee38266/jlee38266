@@ -34,30 +34,16 @@
   }
 }
 ```
+![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlee38266&show_icons=true&theme=tokyonight)
 
-<div style="display: flex;">
+
+<!--<div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=jlee38266&show_icons=true" alt="jlee38266's github stats" />
-<!--   <a href="https://solved.ac/akdmf23">
+   <a href="https://solved.ac/akdmf23">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=akdmf23" alt="solved.ac tier" />
-  </a> -->
-</div>
-
+  </a> 
+</div>-->
 <!--
 ![jlee38266's github stats](https://github-readme-stats.vercel.app/api?username=jlee38266&show_icons=true)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=akdmf23)](https://solved.ac/akdmf23)
--->
-                                                     
-<!--
-**jlee38266/jlee38266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
