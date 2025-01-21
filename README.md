@@ -8,6 +8,8 @@
   "skills": {
     "languages_and_frameworks": {
       "Java": ["Spring Boot", "Spring Data JPA"],
+      "Matlab",
+      "Python",
       "JavaScript": ["Vue.js 3"]
     },
     "devOps": {
