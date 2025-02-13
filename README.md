@@ -24,7 +24,6 @@
       "Version_Control": ["Git", "GitHub", "SourceTree", "Lazygit"],
       "Collaboration": ["Notion", "Slack", "Discord"],
       "Editor": ["IntelliJ", "VSCode"],
-      "Scripting": ["Shell script"],
       "Testing": ["Postman", "k6"]
     }
   },
